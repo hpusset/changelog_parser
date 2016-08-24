@@ -1,2 +1,2 @@
 # changelog_parser
-Small script to parsing CHANGELOG file
+Simple script to parse CHANGELOG file
